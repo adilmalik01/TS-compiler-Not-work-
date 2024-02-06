@@ -1,1 +1,1 @@
-# TS-compiler-Not-work-
+# TS-compiler-Not-work-  Set-ExecutionPolicy RemoteSigned
